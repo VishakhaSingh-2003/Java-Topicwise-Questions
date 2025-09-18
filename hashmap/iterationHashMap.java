@@ -1,4 +1,4 @@
-. package hashmap;
+package hashmap;
 import java.util.*;
 public class iterationHashMap {
     public static void main(String[] args) {
