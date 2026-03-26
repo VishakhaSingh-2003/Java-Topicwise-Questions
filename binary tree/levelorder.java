@@ -42,7 +42,7 @@ public class levelorder {
             }
            }
            else{
-            System.out.println(currNode.data+" ");
+            System.out.print(currNode.data+" ");
             if(currNode.left != null){
                 q.add(currNode.left);
             }
