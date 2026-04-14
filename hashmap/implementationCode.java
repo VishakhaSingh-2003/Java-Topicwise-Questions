@@ -48,7 +48,7 @@ public class implementationCode {
             return -1;
         }
 
-       i
+       
         private void rehash() {
             LinkedList<Node> oldBuck[] = buckets;
             buckets = new LinkedList[N * 2];
