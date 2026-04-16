@@ -1,9 +1,7 @@
 package hashmap;
 import java.util.*;
 
-import java.util.*;
-
-public class LinkedHm {
+public class linkedHmQ {
     public static void main(String[] args) {
         LinkedHashMap<String, Integer> lhm = new LinkedHashMap();
         lhm.put("India", 100);
