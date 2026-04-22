@@ -1,4 +1,4 @@
-package hashset;
+
 import java.util.*;
  class operations {
     public static void main(String[] args) {
