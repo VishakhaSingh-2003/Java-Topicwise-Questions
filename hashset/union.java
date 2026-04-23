@@ -14,6 +14,11 @@ public class union {
             set.add(arr2[i]);
         }
         System.out.println("size is: "+set.size());
+
+        for(int num : set){
+            System.out.println(num);
+        }
+
         System.out.println("elements are: "+set);
     }
     
