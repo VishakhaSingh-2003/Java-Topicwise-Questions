@@ -11,12 +11,13 @@ public class intersection {
         }
         int count = 0;
         for(int i=0 ;i<arr2.length; i++){
+           
             if(set.contains(arr2[i])){
+                 System.out.println("comman elements: " + arr2[i]);
                 count++;
                 set.remove(arr2[i]);
             }
         }
         System.out.println("size :"+ count);
-        System.out.println(set);
     }
 }
