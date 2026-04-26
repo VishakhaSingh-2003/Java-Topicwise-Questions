@@ -1,5 +1,5 @@
 
-package String;
+
 
 public class palindrome {
   public static boolean palin(String str){
